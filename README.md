@@ -4,6 +4,8 @@
 
 <img src="Screen Shot 2021-04-09 at 7.57.11 AM.png">
 
+<img src="Screen Shot 2021-04-09 at 8.00.30 AM.png">
+
 Deployment Link: https://bh007183.github.io/shake-and-date/
 
 # Summary
