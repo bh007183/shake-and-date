@@ -2,7 +2,7 @@
 
 <img width="1440" alt="Screen Shot 2021-01-04 at 4 08 56 PM" src="https://user-images.githubusercontent.com/74025123/103579954-264f8400-4e8e-11eb-91d7-90470546696b.png">
 
-Deployment Link:
+Deployment Link: https://bh007183.github.io/shake-and-date/
 
 # Summary
 
